@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm RDC28
+# 👋 Hi, I'm Rohit~
 
 🎓 **B.Sc. IT Graduate** | 📊 **Data Analytics & AI/ML Enthusiast**  
 
@@ -55,8 +55,8 @@ Also eager to participate in **competitions and hackathons** to learn and grow.
 
 ### 📫 Connect with Me
 🌐 [GitHub Profile](https://github.com/RDC28)  
-💼 [LinkedIn](#) *(add your link here)*  
-📧 Email: *(add your email here if you want)*
+💼 [LinkedIn](https://linkedin.com/in/rchavda28)
+📧 [Email:](rchavda2005@outlook.com)
 
 ---
 
