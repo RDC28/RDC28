@@ -4,6 +4,9 @@ I'm Rohit, a B.Sc. IT grad who loves playing around with data and building thing
 
 Right now I'm knee-deep in data science projects and picking up new tech as I go. Always down for a good hackathon or competition – nothing beats the rush of solving problems under pressure.
 
+## 🌐 Check out my portfolio
+**[rchavda-portfolio.netlify.app](https://rchavda-portfolio.netlify.app/)**
+
 ## Tech Stack
 
 **Languages & Databases:**
